@@ -51,8 +51,8 @@
 | Communication                         | Comunicación                                                                 | Comunicació                                                            |
 | Communication styles                  | Estilos de comunicación                                                      | Estils de comunicació                                                  |
 | Compact                               | Acuerdo / Pacto                                                              | Acord / Pacte                                                          |
-| Compliance checking                   | Verificación de cumplimiento / Pruebas de cumplimiento                       | Verificació de cumpliment / Proves de cumpliment                       |
-| Compliance officer                    | Encargado / Responsable del cumplimiento                                     | Encarregat / Responsable del cumpliment                                |
+| Compliance checking                   | Verificación de cumplimiento / Pruebas de cumplimiento                       | Verificació de compliment / Proves de compliment                       |
+| Compliance officer                    | Encargado / Responsable del cumplimiento                                     | Encarregat / Responsable del compliment                                |
 | Component (tests)                     | Test / Pruebas de componentes                                                | Test / Proves de components                                            |
 | Configuration Management              | Gestión de la Configuración / Gestión de Configuraciones                     | Gestió de la Configuració / Gestió de Configuracions                   |
 | Containers                            | Contenedores                                                                 | Contenidors                                                            |
