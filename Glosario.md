@@ -40,7 +40,7 @@
 | Change schedules                      | Planificación de cambios                                                     | Planificació de canvis                                                 |
 | Check-in                              | Check-in                                                                     | Check-in                                                               |
 | Cloud computing                       | Computación en la nube / Cloud                                               | Computació en el núvol / Cloud                                         |
-| Cluster immune system release pattern | Patrón de despliegue de tipo Cluster Inmune                                  | Patró d'Alliberament de tipos Cluster Immune                           |
+| Cluster immune system release pattern | Patrón de despliegue de tipo Cluster Inmune                                  | Patró d'Alliberament de tipus Cluster Immune                           |
 | Coach                                 | Coach                                                                        | Coach                                                                  |
 | Code branch                           | Rama de código                                                               | Branca de codi                                                         |
 | Code review forms                     | Formulario de revisión de código                                             | Formulari de revisió de codi                                           |
