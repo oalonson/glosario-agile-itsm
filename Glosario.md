@@ -58,9 +58,9 @@
 | Containers                            | Contenedores                                                                 | Contenidors                                                            |
 | Continuous Delivery                   | Entrega Continua                                                             | Lliurament continu                                                     |
 | Continuous Deployment                 | Despliegue Continuo                                                          | Desplegament continu                                                   |
-| Continuous Improvement                | Mejora Continua                                                              | Millora continua                                                       |
-| Continuous Integration                | Integración Continua                                                         | Integració continua                                                    |
-| Continuous Monitoring                 | Monitorización Continua                                                      | Monitorització continua                                                |
+| Continuous Improvement                | Mejora Continua                                                              | Millora contínua                                                       |
+| Continuous Integration                | Integración Continua                                                         | Integració contínua                                                    |
+| Continuous Monitoring                 | Monitorización Continua                                                      | Monitorització contínua                                                |
 | Conways law                           | Ley de Conway                                                                | Llei de Conway                                                         |
 | Customer                              | Cliente                                                                      | Client                                                                 |
 | Cycle time                            | Tiempo de ciclo                                                              | Temps de cicle                                                         |
