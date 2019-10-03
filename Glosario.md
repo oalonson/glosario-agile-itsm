@@ -92,7 +92,7 @@
 | Flow                                  | Flujo                                                                        | Flux                                                                   |
 | Follower                              | Seguidor                                                                     | Seguidor                                                               |
 | Forensic tools                        | Herramientas forenses                                                        | Eines forenses                                                         |
-| Functional acceptance tests           | Tests / Pruebas de aceptacion funcional                                      | Tests / Proves de aceptació funcional                                  |
+| Functional acceptance tests           | Tests / Pruebas de aceptacion funcional                                      | Tests / Proves d'aceptació funcional                                  |
 | Gantt Chart                           | Diagrama de Gantt                                                            | Diagrama de Gantt                                                      |
 | Gatekeeper                            | Gatekeeper                                                                   | Gatekeeper                                                             |
 | Gaussian distribution                 | Distribución de Gauss                                                        | Distribució de Gauss                                                   |
